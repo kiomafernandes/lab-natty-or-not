@@ -15,5 +15,9 @@ Utilizei o ChatGPT para estruturar o conteúdo e refinar minhas ideias, visando 
 ## 🚀 Resultados
 Apesar de ser uma história curta e simples, o conteúdo se mostrou envolvente, as imagens utilizadas apresentam uma qualidade artística alta e que se aplicam a sequencia da história.
 
+
+### Link para o e-book
+https://drive.google.com/file/d/1g2MaN_6eCAqxG_yjk1U5dzvGkFIhOvR_/view?usp=drivesdk
+
 ## 💭 Reflexão
 Criar este e-book mostrou-se ser uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas a diferentes contextos, trazendo mais praticidade para o dia a dia profissional e pessoal.
