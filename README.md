@@ -1,7 +1,7 @@
 # O Garoto e o Robo: Uma viagem no tempo
 
 ## 📒 Descrição
-Este e-book de 10 páginas conta uma fábula de um garoto do antigo Egito, que viaja no tempo para o futuro e faz amizade com Zyron um robô. Ele foi criado com a utilização de ferramentas de Inteligência Artificial.
+Este e-book de 10 páginas conta uma fábula de um garoto do antigo Egito, que viaja no tempo para o futuro e faz amizade com Zyron um robô. Ele foi criado com a utilização de ferramentas de Inteligência Artificial, com uma estrutura que arremete história para publico infantil.
 
 ## 🤖 Tecnologias Utilizadas
 
